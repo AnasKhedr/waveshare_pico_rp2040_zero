@@ -1,3 +1,5 @@
+# Buy from GeeksCorner [here](https://geeks-corner.vatrin.app/)
+
 # RPI Pico rp-2040-Zero by waveshare
 
 ![pinout](./imgs/waveshare-2040-zero-pinout.png)
