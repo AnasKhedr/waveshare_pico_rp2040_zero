@@ -12,7 +12,8 @@
         "shardulm94.trailing-spaces",
         "sirtori.indenticator",
         "streetsidesoftware.code-spell-checker",
-        "usernamehw.errorlens"
+        "usernamehw.errorlens",
+        "wokwi.wokwi-vscode"
     ],
     "unwantedRecommendations": [
         "ms-vscode.cpptools-extension-pack"
