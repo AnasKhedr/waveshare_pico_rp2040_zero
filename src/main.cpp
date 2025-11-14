@@ -21,9 +21,9 @@ void setup()
     g_led = CRGB::Blue;
     FastLED.show();
     // setup input pins
-    pinMode(kRedLEDPin, PinMode::INPUT);
-    pinMode(kGreenLEDPin, PinMode::INPUT);
-    pinMode(kYellowLEDPin, PinMode::INPUT);
+    pinMode(kRedLEDPin, PinMode::INPUT_PULLUP);
+    pinMode(kGreenLEDPin, PinMode::INPUT_PULLUP);
+    pinMode(kYellowLEDPin, PinMode::INPUT_PULLUP);
 }
 
 void CheckButtonsPressed()
