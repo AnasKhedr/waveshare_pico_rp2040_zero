@@ -29,6 +29,17 @@ But if you live Egypt and you're كحيان like me then you can buy it from [Ge
 - You can find The `compile_commands.json` file(which tells clangd exactly how each file will compile) under `.pio\build\compile_commands.json`.
 - To enter Bootloader mode and get rp-2040 to act as a mass storage device if you want to upload the firmware(`.pio\build\pico\firmware.elf.uf2`) manually then hold the `BOOT` button on the board then plugin the USB or if device is already connected then hold `Boot` button then press the `RESET` button while you're holding `BOOT`.
 
+## git cheat sheet
+
+`git switch -c rp2040_gpio_buttons`
+`git status`
+`git add -u`
+`git add <files>`
+`git config --global core.editor nano`
+`git commit`
+`git log --oneline --graph`
+`git push origin <branch_name>`
+
 ## Contact GeeksCorner
 
 | [Facebook](https://www.facebook.com/profile.php?id=61580976832543)             |  [Whatsapp](https://wa.me/201100045221) |

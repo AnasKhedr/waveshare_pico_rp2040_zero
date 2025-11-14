@@ -83,4 +83,12 @@
     "C/C++ Include Guard.Prefix": "_",
     "C/C++ Include Guard.Suffix": "_HPP",
     "C/C++ Include Guard.Comment Style": "Line",
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/sources/poky/bitbake/lib",
+        "${workspaceFolder}\\sources\\poky\\meta\\lib"
+    ],
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/sources/poky/bitbake/lib",
+        "${workspaceFolder}\\sources\\poky\\meta\\lib"
+    ],
 }
