@@ -1,4 +1,4 @@
-# Buy from GeeksCorner [here](https://geekscorner.shantaweb.com/)
+# Buy from GeeksCorner [here](https://www.geekscorner.shop/)
 
 # RPI Pico rp-2040-Zero by waveshare
 
@@ -9,7 +9,7 @@
 In this project I'm using a clone of the original [rp2040-zero](https://www.waveshare.com/wiki/RP2040-Zero).
 If you live in an advanced economy country please consider buying the original and avoid buying cheap chinese clones.
 
-But if you live Egypt and you're كحيان like me then you can buy it from [GeeksCorner](https://geekscorner.shantaweb.com/1604196712-waveshare-raspberry-pi-pico-rp2040-zero)
+But if you live Egypt and you're كحيان like me then you can buy it from [GeeksCorner](https://www.geekscorner.shop/products/rp2040-zero)
 
 ## To download the bootloader for uploading code on windows
 
